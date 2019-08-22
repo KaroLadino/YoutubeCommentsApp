@@ -5,7 +5,7 @@ import pandas as pd
 import pprint 
 import matplotlib.pyplot as pd
 
-DEVELOPER_KEY = "AIzaSyDUVEW38BXvuMCRV0PzGTlYQk3J4tdcMfs"
+DEVELOPER_KEY = "DEVELOPER_KEY"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
